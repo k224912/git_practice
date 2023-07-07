@@ -1,0 +1,3 @@
+----------------------restoring a file....................
+if a certain file is deleted and the changes are commited, then go
+ back to a previous commit using the git reset, the using the git restore, restore the file  
