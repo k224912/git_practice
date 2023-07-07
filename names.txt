@@ -2,3 +2,4 @@ this is the first time i AM editing this file
 now this is the second time i am editing this file
 now i have creted another brach and this third and fouth line have been 
 edited in the "branch2", will merge it with maste/mainr branch
+have successfully merged the  two branches
